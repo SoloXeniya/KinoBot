@@ -1,0 +1,47 @@
+.
+├── core
+│   ├── config.py
+│   ├── inline.py
+│   ├── keyboard.py
+│   └── pars.py
+├── .env
+├── .gitignore
+├── main.py
+├── requirements.txt
+├── source
+│   ├── animation
+│   ├── audio
+│   ├── document
+│   ├── image
+│   ├── sticker
+│   └── video
+├── tree.txt
+└── venv
+    ├── bin
+    │   ├── activate
+    │   ├── activate.csh
+    │   ├── activate.fish
+    │   ├── activate.nu
+    │   ├── activate.ps1
+    │   ├── activate_this.py
+    │   ├── deactivate.nu
+    │   ├── dotenv
+    │   ├── normalizer
+    │   ├── pip
+    │   ├── pip3
+    │   ├── pip-3.10
+    │   ├── pip3.10
+    │   ├── pybabel
+    │   ├── python -> /usr/bin/python3
+    │   ├── python3 -> python
+    │   ├── python3.10 -> python
+    │   ├── wheel
+    │   ├── wheel3
+    │   ├── wheel-3.10
+    │   └── wheel3.10
+    ├── .gitignore
+    ├── lib
+    │   └── python3.10
+    └── pyvenv.cfg
+
+12 directories, 32 files
